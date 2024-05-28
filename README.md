@@ -1,4 +1,3 @@
-```markdown
 # Balanceamento de Dados com AllKNN
 
 Este repositório contém um código de Machine Learning que utiliza o algoritmo AllKNN do pacote `imblearn` para realizar o balanceamento de dados. O balanceamento de dados é uma etapa crucial em muitos projetos de Machine Learning, especialmente quando se lida com conjuntos de dados desbalanceados, onde uma ou mais classes estão sub-representadas.
@@ -83,10 +82,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-```
-
 ## Acknowledgements
 
 Este projeto utiliza a biblioteca [imbalanced-learn](https://imbalanced-learn.org/stable/) para técnicas de balanceamento de dados.
-
-```
